@@ -1,8 +1,20 @@
 # Asset navigation.
 this is a this is a test test
 
-textures: item textures ripped from the datapack
+block: block models 64x64
 
-models: isometric renders of models
+textures: item textures ripped directly from the datapack, or resized to atleast 32x32
+
+gui: more textures ripped from the datapack
+
+effect: more textures ripped from the datapack
+
+gif: animated textures
+
+models: other models
+
+painting: paintings
+
+
 
 
