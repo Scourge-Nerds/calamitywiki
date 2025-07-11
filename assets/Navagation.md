@@ -19,3 +19,4 @@ painting: paintings
 
 rescale.py: requires PIL (python image library). Rescales all images by 2, tries to make it use a palette, and will not resize them if it is already resized using the magic of metadata
 
+rescale_mobs.py: requires PIL (python image library). Same as rescale, but it targets ./models/mobs & forces images to be 300xY or Xx300, 300 being the smaller size.
